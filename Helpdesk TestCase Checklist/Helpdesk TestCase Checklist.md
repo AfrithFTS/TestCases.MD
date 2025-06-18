@@ -1,4 +1,4 @@
-# [Helpdesk](!https://afrithfts.github.io/Test-case-Documents/Helpdesk%20Test%20Cases/Helpdesk%20Testcase.xlsx)
+# [Helpdesk](https://afrithfts.github.io/Test-case-Documents/Helpdesk%20Test%20Cases/Helpdesk%20Testcase.xlsx)
 
 ## Flow Check List:
 
