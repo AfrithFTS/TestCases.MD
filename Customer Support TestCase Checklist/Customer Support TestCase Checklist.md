@@ -69,3 +69,25 @@
 | CS026 |  | Ticket assgined to Supervisor, but no action taken for 4 hours until ticket assigned | - | Email sent to that Supervisor |
 | CS027 | Escalation mail to Project Manager | Ticket assigned to Coordinator, but no action taken for 8 hours until ticket assigned | - | Email sent to Project Manager |
 | CS028 | Escalation mail to Alshammari | Ticket assigned to Coordinator, but no action for 12 hours from assigned | - | Email sent to Alshammari |
+
+## Common Things to Test:-
+
+  1. Search in all tables
+  2. Minimize & Maximize table
+  3. Import & Export Data
+  4. Search in dropdown
+  5. Scroll bar in all dropdown
+  6. Page Navigation
+  7. Dropdown data select & close
+  8. Attachments
+  9. Email Attachments
+ 10. Data Edit
+ 11. Data Delete
+ 12. Page Refresh
+ 13. Page Size
+ 14. Page Total Count
+ 15. Pagination
+ 16. Dropdown Pagination
+ 17. Dropdown Page size
+ 18. Textarea with long text
+ 19. Html editor with long text
