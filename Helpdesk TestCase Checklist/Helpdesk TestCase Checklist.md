@@ -70,3 +70,25 @@
 | HD021 | ReOpen Ticket | ReOpen the Ticket | Ticket - Closed | Email sent to Ticket Created User |
 | HD022 | Escalation Mail to Team Lead | If no action taken for 4 hours from ticket created | - | Email sent to Team Lead of the Ticket Category |
 | HD023 |  | If no action taken for 8 hours from ticket created | - | Email sent to Team Lead of the Ticket Category |
+
+## Common Things to Test:-
+
+  1. Search in all tables
+  2. Minimize & Maximize table
+  3. Import & Export Data
+  4. Search in dropdown
+  5. Scroll bar in all dropdown
+  6. Page Navigation
+  7. Dropdown data select & close
+  8. Attachments
+  9. Email Attachments
+ 10. Data Edit
+ 11. Data Delete
+ 12. Page Refresh
+ 13. Page Size
+ 14. Page Total Count
+ 15. Pagination
+ 16. Dropdown Pagination
+ 17. Dropdown Page size
+ 18. Textarea with long text
+ 19. Html editor with long text
