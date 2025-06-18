@@ -25,7 +25,7 @@
 
   8. Send Forward mail from System with and without attachments - Verify Mail with attachments (If available)
 
-  9. Add Ticket Comments
+  9. Add Ticket Comments - Verify Email
 
   10. Add Mentioned Comments in Tickets - Verify Email
 
