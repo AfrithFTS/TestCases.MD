@@ -1,4 +1,4 @@
-# [Customer Support](https://afrithfts.github.io/Test-case-Documents/Customer%20Support%20Test%20Cases/Customer%20Support%20Testcases.xlsx){target="_blank"}
+# [Customer Support](https://afrithfts.github.io/Test-case-Documents/Customer%20Support%20Test%20Cases/Customer%20Support%20Testcases.xlsx)
 
 ## Flow Check List:
 
