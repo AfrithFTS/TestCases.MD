@@ -62,8 +62,8 @@
 | HD013 |  | Add Mentioned Comments in Ticket details page | - | Email sent to Mentioned User & CC to Commented user |
 | HD014 | Approval Comments | Add Comments in Approval details page | - | Email sent to Approval Sender & Assigned Approver |
 | HD015 |  | Add Mentioned Comments in Approval details page | - | Email sent to Mentioned User, Approval Sender & Assigned Approver |
-| HD016 | Task Comments | Add Comments in Task details page | - | - |
-| HD017 |  | Add Mentioned Comments in Task details page | - | Email sent to Mentioned User, Approval Sender & Assgined Approver |
+| HD016 | Task Comments | Add Comments in Task details page | - | Email sent to Task Created User & Task Assigned User |
+| HD017 |  | Add Mentioned Comments in Task details page | - | Email sent to Mentioned User, Task Created User & Task Assigned User |
 | HD018 | Add Notes	| Add Notes in the Ticket details page | - | - |
 | HD019 | Cancel Ticket | Cancel the Ticket | - | Email sent to Ticket Created User |
 | HD020 | Close Ticket | Close the Ticket | - | Email sent to Ticket Created User |
