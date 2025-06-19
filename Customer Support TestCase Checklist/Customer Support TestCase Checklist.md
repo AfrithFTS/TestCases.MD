@@ -54,21 +54,23 @@
 | CS010 | Create Helpdesk Ticket | Create HSK Ticket from CS, instead of Task | - | - |
 | CS011 | Reply to Mail from System | Reply to Test User Mail from System without Attachment | - | Email Received by Test User |
 | CS012 |  | Reply to Test User Mail from System with Attachments | - | Email Received by Test User with Attachments |
-| CS013 | Forward to Mail from System | Forward to Test User Mail from System without Attachment | - | Email Received by Test User |
-| CS014 |  | Forward to Test User Mail from System with Attachments | - | Email Received by Test User |
-| CS015 | Ticket Comments | Add Comments in Ticket details page | - | - |
-| CS016 |  | Add Mentioned Comments in Ticket details page | - | Email sent to Mentioned User & CC to Commented user |
-| CS017 | Approval Comments | Add Comments in Approval details page | - | Email sent to Approval Sender & Assigned Approver |
-| CS018 |  | Add Mentioned Comments in Approval details page | - | Email sent to Mentioned User, Approval Sender & Assigned Approver |
-| CS020 | Add Notes | Add Notes in the Ticket details page | - | - |
-| CS021 | Close Ticket | Close the Ticket | - | Email sent to Customer |
-| CS022 | ReOpen Ticket | ReOpen the Ticket manually | Ticket - Closed | Email Sent to Customer & Assigned user for the ticket |
-| CS023 |  | ReOpen Ticket by Sending Reply to closed ticket | Ticket - Closed | Email Sent to Customer & Assigned user for the ticket |
-| CS024 | Escalation mail to Supervisor | Ticket is not assigned for 4 hours until from ticket created | - | Email sent to the Reporting Supervisor |
-| CS025 |  | Ticket assigned to Coordinator, but no action taken for 4 hours until ticket assigned | - | Email sent to the Reporting Supervisor |
-| CS026 |  | Ticket assgined to Supervisor, but no action taken for 4 hours until ticket assigned | - | Email sent to that Supervisor |
-| CS027 | Escalation mail to Project Manager | Ticket assigned to Coordinator, but no action taken for 8 hours until ticket assigned | - | Email sent to Project Manager |
-| CS028 | Escalation mail to Alshammari | Ticket assigned to Coordinator, but no action for 12 hours from assigned | - | Email sent to Alshammari |
+| CS013 | Reply to Mail from External source (Gmail, Outlook) | Repl̥y to Mail from external (Gmail, Outlook) without Attachment | - | Email Received in System |
+| CS014 |  | Reply to Mail from External with Attachments | - | Email Received in System with Attachments |
+| CS015 | Forward to Mail from System | Forward to Test User Mail from System without Attachment | - | Email Received by Test User |
+| CS016 |  | Forward to Test User Mail from System with Attachments | - | Email Received by Test User with Attachments |
+| CS017 | Ticket Comments | Add Comments in Ticket details page | - | - |
+| CS018 |  | Add Mentioned Comments in Ticket details page | - | Email sent to Mentioned User & CC to Commented user |
+| CS019 | Approval Comments | Add Comments in Approval details page | - | Email sent to Approval Sender & Assigned Approver |
+| CS020 |  | Add Mentioned Comments in Approval details page | - | Email sent to Mentioned User, Approval Sender & Assigned Approver |
+| CS021 | Add Notes | Add Notes in the Ticket details page | - | - |
+| CS022 | Close Ticket | Close the Ticket | - | Email sent to Customer |
+| CS023 | ReOpen Ticket | ReOpen the Ticket manually | Ticket - Closed | Email Sent to Customer & Assigned user for the ticket |
+| CS024 |  | ReOpen Ticket by Sending Reply to closed ticket | Ticket - Closed | Email Sent to Customer & Assigned user for the ticket |
+| CS025 | Escalation mail to Supervisor | Ticket is not assigned for 4 hours until from ticket created | - | Email sent to the Reporting Supervisor |
+| CS026 |  | Ticket assigned to Coordinator, but no action taken for 4 hours until ticket assigned | - | Email sent to the Reporting Supervisor |
+| CS027 |  | Ticket assgined to Supervisor, but no action taken for 4 hours until ticket assigned | - | Email sent to that Supervisor |
+| CS028 | Escalation mail to Project Manager | Ticket assigned to Coordinator, but no action taken for 8 hours until ticket assigned | - | Email sent to Project Manager |
+| CS029 | Escalation mail to Alshammari | Ticket assigned to Coordinator, but no action for 12 hours from assigned | - | Email sent to Alshammari |
 
 ## Common Things to Test:-
 
