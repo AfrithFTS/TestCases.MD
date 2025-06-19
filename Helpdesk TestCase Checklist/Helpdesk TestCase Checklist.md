@@ -34,7 +34,7 @@
 
   12. Add Mentioned Comments in Tasks - Verify Email
 
-  13. Verify Escalation Mail for Team Lead
+  13. Verify Escalation Mail for Department Manager
 
   13. Check SLA status with Ticket:
 
