@@ -68,8 +68,8 @@
 | HD019 | Cancel Ticket | Cancel the Ticket | - | Email sent to Ticket Created User |
 | HD020 | Close Ticket | Close the Ticket | - | Email sent to Ticket Created User |
 | HD021 | ReOpen Ticket | ReOpen the Ticket | Ticket - Closed | Email sent to Ticket Created User |
-| HD022 | Escalation Mail to Team Lead | If no action taken for 4 hours from ticket created | - | Email sent to Team Lead of the Ticket Category |
-| HD023 |  | If no action taken for 8 hours from ticket created | - | Email sent to Team Lead of the Ticket Category |
+| HD022 | Escalation Mail to Manager | If no action taken for 4 hours from ticket created | - | Email sent to Manager of the Department |
+| HD023 |  | If no action taken for 8 hours from ticket created | - | Email sent to Manager of the Department |
 
 ## Common Things to Test:-
 
