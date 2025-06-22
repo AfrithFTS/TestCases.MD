@@ -47,7 +47,7 @@
 
 | TC ID | Test Scenario | Functionality | Status | Email Notification |
 | ----- | ------------- | ------------- | ------ | ------------ |
-| HD001 | Create Ticket | Create Ticket with and without attachments | Ticket - New | Email Sent to the User & Team Members |
+| HD001 | Create Ticket | Create Ticket with and without attachments | Ticket - New | Email Sent to the Team Members |
 | HD002 | Assign (Action) | Ticket Assign to Test User | Ticket - New | Email Sent to Assigned User |
 | HD003 | Pickup (Action) | Ticket Assign himself | Ticket - New | Email Sent to Pickuped user (Assigned mail) |
 | HD004 | Send Approval | Send Approval to Test User | Ticket - Waiting for Approval, Approval - Pending | Email Sent to Assigned Approver & CC to Sender |
